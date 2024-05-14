@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Galán Heredia</h1>
+<h1 align="center">Hi 👋, I'm Fabrizio Galán</h1>
 <h3 align="center">A passionate full stack developer from Perú</h3>
-<h3 align="center">I am Galán Heredia, an enthusiastic Full Stack Web Developer with a passion for technology and innovation, my main focus is the development of web applications using modern technologies such as React, Next.js, Node.js, Express, SQL, JavaScript, CSS and more. I love working on challenging projects that allow me to constantly learn and improve my skills.
+<h3 align="center">I am Fabrizio Galán, an enthusiastic Full Stack Web Developer with a passion for technology and innovation, my main focus is the development of web applications using modern technologies such as React, Next.js, Node.js, Express, SQL, JavaScript, CSS and more. I love working on challenging projects that allow me to constantly learn and improve my skills.
 My goal is to join dynamic teams and contribute with my passion for technology and my ability to tackle complex challenges</h3>
 
 - 💬 Ask me about **html, css, javascript and reactjs**
